@@ -30,7 +30,7 @@
 
 .happy {
 
-    padding: 20px 100px 0px;
+    padding: 20px 150px 0px;
     color: #FFFF;
     text-align: center;
     width: 632px;
@@ -78,7 +78,7 @@
 .text-categories {
     color: #070211;
     font-family: Inter;
-    margin: 10px 450px  0px;
+    margin: 10px 450px 0px;
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
@@ -128,12 +128,13 @@
     border-radius: 16px;
     background-position: center;
     gap: 5px;
-    
-    
+
+
 
 
 }
-.ab-img{
+
+.ab-img {
 
     width: 300px;
     height: 400px;
@@ -227,7 +228,7 @@
     font-family: Merriweather;
     font-size: 72px;
     font-weight: 900;
-    margin: 20px 300px 0px;
+    margin: 20px 400px 0px;
 }
 
 .text-sell-3 {
@@ -245,10 +246,10 @@
 
 }
 
-.picture {
-    height: 800px;
-    margin: 20px 300px 0px;
-    
+.sell {
+    width: 1600px;
+    height: 1133px;
+
 }
 
 .pic1 {
@@ -293,10 +294,151 @@
 
 }
 
+.gift {
+
+    width: 1300px;
+    height: 1300px;
+    background: #FFFF;
+}
+
+.best-gift {
+
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 0px 20px;
+
+}
+
+
+.gift-protfolio {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    padding: 0px 20px;
+}
+
+.gift-content {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    padding: 0px 20px;
+  
+}
+
+.gift-img {
+    width: 1300px;
+    gap: 24px;
+    display: flex;
+}
+
+.member {
+
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    padding: 50px 0px;
+}
+
+.subscribe {
+    margin: 60px;
+    padding: 0px 70px;
+}
+
+#e-img {
+    padding: 0px 500px;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+
+}
+
+.subscribe-title {
+
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 1000;
+
+
+}
+
+.subscribe-description {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    width: 896px;
+    padding: 0px 90px;
+
+}
+
+.msg {
+    position: absolute;
+    left: 350px;
+
+}
+
+input {
+    display: inline-block;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+
+input[type=email] {
+    width: 448px;
+    height: 72px;
+    background: #FFF;
+    border: none;
+    padding: 0px 35px;
+    border-radius: 50px 0px 0px 50px;
+}
+
+input[type=submit] {
+    position: relative;
+    width: 178px;
+    height: 72px;
+    left: -15px;
+    border: none;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: #FFFF;
+    
+    
+}
+
+
+
+
+.msg-email {
+
+
+    border: 0;
+    background-color: #FFF;
+
+}
+
 
 
 .foot {
     width: 1500px;
     height: 609px;
-    background-color: #070211;
+    background-color: #b99fec;
 }
