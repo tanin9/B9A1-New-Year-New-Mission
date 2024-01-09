@@ -358,7 +358,7 @@
 }
 
 #e-img {
-    padding: 0px 500px;
+    padding: 0px 450px;
     align-items: center;
     width: 150px;
     height: 150px;
@@ -424,9 +424,6 @@ input[type=submit] {
     
 }
 
-
-
-
 .msg-email {
 
 
@@ -434,9 +431,6 @@ input[type=submit] {
     background-color: #FFF;
 
 }
-
-
-
 
 
 .foot {
@@ -491,7 +485,7 @@ input[type=submit] {
 .footer-column-text{
     display: flex;
     gap: 300px;
-    padding: 0px 120px;
+    padding: 60px 120px;
    
 }
 .foot-text1{
