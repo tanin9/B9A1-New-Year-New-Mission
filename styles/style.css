@@ -437,8 +437,80 @@ input[type=submit] {
 
 
 
+
+
 .foot {
-    width: 1500px;
-    height: 609px;
-    background-color: #b99fec;
+    width: 1240px;
+    height: 509px;
+    background-color: #070211;;
+    padding: 100px 50px;
+  
+
+
+}
+
+.foot-text{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    width: 450px;
+}
+
+.foot hr {
+
+    margin: 10px 180px 50px;
+    width: 920px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.footer-column {
+    display: flex;
+    gap: 100px;
+    padding: 10px 200px;
+
+}
+
+.footer-column-mid {
+    display: flex;
+    gap: 10px;
+    padding: 10px 500px;
+}
+
+.footer-column-mid hr {
+
+    margin: 10px 180px 50px;
+    width: 920px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.footer-column-text{
+    display: flex;
+    gap: 300px;
+    padding: 0px 120px;
+   
+}
+.foot-text1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    width: 1550px;
+    margin-left: 50px;
+}
+.foot-text2{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    width: 150px;
+  
 }
